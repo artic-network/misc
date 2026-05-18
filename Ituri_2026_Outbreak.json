@@ -27,9 +27,9 @@
     "tipLabelAlign": "dots",
     "tipLabelFontSize": "11",
     "nodeLabelAnnotation": "bootstrap",
-    "nodeLabelFontSize": "9",
+    "nodeLabelFontSize": "11",
     "nodeLabelDecimalPlaces": "0",
-    "cladeHighlightLeftEdge": "outlineNodes",
+    "cladeHighlightLeftEdge": "rectangle",
     "cladeHighlightRightEdge": "atLabelsRight",
     "axisShow": "forward",
     "selectedTheme": "Monochrome"
