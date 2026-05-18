@@ -25,7 +25,7 @@
     "paddingTop": "4",
     "paddingBottom": "4",
     "tipLabelAlign": "dots",
-    "fontSize": "8",
+    "fontSize": "12",
     "nodeLabelAnnotation": "bootstrap",
     "nodeLabelFontSize": "8",
     "nodeLabelDecimalPlaces": "0",
