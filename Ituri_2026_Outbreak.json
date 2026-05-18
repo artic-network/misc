@@ -21,7 +21,7 @@
     "theme": "light"
   },
   "settings": {
-    "canvasBgColor": "#FFFFF6",
+    "canvasBgColor": "#FFFFFA",
     "introAnimation": "none",
     "tipLabelAlign": "dots",
     "tipLabelFontSize": "11",
