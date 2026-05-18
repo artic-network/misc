@@ -16,14 +16,14 @@
     "tbFilter": false,
     "tbPanels": false,
     "openTree": false,
-    "theme": "light"
-  },
-  "settings": {
-    "introAnimation": "none",
     "paddingLeft": "0",
     "paddingRight": "0",
     "paddingTop": "0",
     "paddingBottom": "0",
+    "theme": "light"
+  },
+  "settings": {
+    "introAnimation": "none",
     "tipLabelAlign": "dots",
     "tipLabelFontSize": "11",
     "nodeLabelAnnotation": "bootstrap",
