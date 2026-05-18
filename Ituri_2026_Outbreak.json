@@ -1,13 +1,11 @@
 {
   "ui": {
     "palette": false,
+    "statusBar": false,
     "import": false,
     "export": false,
     "rtt": false,
     "dataTable": false,
-    "statusMessage": false,
-    "statusSelect": false,
-    "statusShare": false,
     "themeToggle": false,
     "tbFileOps": false,
     "tbAnnotations": false,
@@ -16,8 +14,8 @@
     "tbFilter": false,
     "tbPanels": false,
     "openTree": false,
-    "paddingLeft": "0",
-    "paddingRight": "0",
+    "paddingLeft": "8",
+    "paddingRight": "8",
     "paddingTop": "0",
     "paddingBottom": "0",
     "theme": "light"
