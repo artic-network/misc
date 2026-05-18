@@ -23,6 +23,7 @@
     "theme": "light"
   },
   "settings": {
+    "background": "#F1F0E7",
     "introAnimation": "none",
     "tipLabelAlign": "dots",
     "tipLabelFontSize": "11",
