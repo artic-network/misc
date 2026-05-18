@@ -33,7 +33,8 @@
     "cladeHighlightRightEdge": "atLabelsRight",
     "cladeHighlightPadding": "10",
     "axisShow": "forward",
-    "axisFontSize": "11",
+    "axisFontSize": "10",
+    "axisLineWidth": "2",
     "selectedTheme": "Monochrome"
   }
 }
