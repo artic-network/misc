@@ -1,6 +1,7 @@
 {
   "ui": {
     "palette": false,
+    "toolbar": false,
     "statusBar": false,
     "import": false,
     "export": false,
