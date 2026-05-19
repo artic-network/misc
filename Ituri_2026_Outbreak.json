@@ -32,6 +32,7 @@
     "nodeLabelAnnotation": "bootstrap",
     "nodeLabelFontSize": "10",
     "nodeLabelDecimalPlaces": "0",
+    "nodeLabelPosition": "above-left",
     "cladeHighlightLeftEdge": "rectangle",
     "cladeHighlightRightEdge": "atLabelsRight",
     "cladeHighlightPadding": "10",
