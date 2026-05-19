@@ -28,7 +28,7 @@
     "canvasBgColor": "#FFFFFA",
     "introAnimation": "none",
     "tipLabelAlign": "dots",
-    "tipLabelFontSize": "9",
+    "tipLabelFontSize": "8",
     "nodeLabelAnnotation": "bootstrap",
     "nodeLabelFontSize": "10",
     "nodeLabelDecimalPlaces": "0",
