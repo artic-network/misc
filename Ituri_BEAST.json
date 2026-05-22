@@ -26,6 +26,36 @@
   },
   "settings": {
     "canvasBgColor": "#FFFFFA",
-    "introAnimation": "none"
+    "introAnimation": "none",
+    "filters":[
+      {
+        "id":"filter-support",
+        "name":"support",
+        "root":{
+          "logic":"AND",
+          "items":[
+            {
+              "field":"posterior",
+              "operator":">=",
+              "value":"0.5"
+            }
+          ]
+        }
+      },
+      {
+        "id":"filter-root",
+        "name":"root",
+        "root":{
+          "logic":"AND",
+          "items":[
+            {
+              "field":"__tips_below__",
+              "operator":">=",
+              "value":"9"
+            }
+          ]
+        }
+      }
+    ]
   }
 }
