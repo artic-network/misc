@@ -28,7 +28,7 @@
   "settings": {
     "canvasBgColor": "#FFFFFA",
     "introAnimation": "none",
-    "rootStemPct":    "1",    // whole-tree root-stem length as % of tree age (0–20)
+    "rootStemPct": "1",
     "axisPaddingTop": "3",
     "rootStubLength": "4",
     "tipLabelAlign": "dots",
