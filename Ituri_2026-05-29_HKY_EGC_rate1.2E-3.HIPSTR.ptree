@@ -5,7 +5,7 @@ BEGIN TREES;
   "branchColor": "#333231",
   "branchWidth": "1.5",
   "elbowRadius": "2",
-  "tipFontSize": "11",
+  "tipLabelFontSize": "11",
   "typeface": "Monospace",
   "typefaceStyle": "Regular",
   "tipLabelColor": "#4b4b49",
