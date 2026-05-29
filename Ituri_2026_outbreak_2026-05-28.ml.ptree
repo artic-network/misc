@@ -108,7 +108,7 @@ BEGIN TREES;
   "collapsedCladeStrokeOpacity": "0.7",
   "collapsedCladeHeightN": "3",
   "collapsedCladeFontSize": "11",
-  "rootStemPct": "20",
+  "rootStemPct": "2",
   "tipLabelsExtraLayouts": [
     "join-pipe",
     "join-pipe",
