@@ -44,6 +44,9 @@
     "rttPinned": true,
     "rttPanelWidth": "40%",
     "rttStatsFontSize": "8",
+    "rttXOrigin": "interval",
+    "rttAspectRatio": "1:1",
+    "rttResidBandShow": "residual",
     "selectedTheme": "Monochrome"
   }
 }
