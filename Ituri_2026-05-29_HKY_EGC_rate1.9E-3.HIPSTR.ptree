@@ -135,7 +135,7 @@ BEGIN TREES;
   "cladeHighlightColour": "#ffaa00",
   "cladeHighlights": [],
   "nodeBarsFilter": null,
-  "nodeLabelsFilter": "filter-root",
+  "nodeLabelsFilter": "filter-root-13",
   "branchLabelsFilter": null,
   "tipLabelsFilter": null,
   "nodeShapesFilter": null,
