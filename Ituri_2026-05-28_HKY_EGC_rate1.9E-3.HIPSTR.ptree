@@ -81,7 +81,7 @@ BEGIN TREES;
   "labelColourBy": "user_colour",
   "legendAnnotation": "location",
   "annotationPalettes": {
-    "location": "Solarized",
+    "location": "Solarized"
   },
   "axisShow": "time",
   "axisDateAnnotation": "date",
