@@ -5,7 +5,7 @@
     "statusBar": false,
     "import": false,
     "export": false,
-    "rtt": false,
+    "rtt": true,
     "dataTable": false,
     "themeToggle": false,
     "tbFileOps": false,
