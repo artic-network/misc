@@ -43,6 +43,7 @@
     "rttOpen": true,
     "rttPinned": true,
     "rttPanelWidth": "40%",
+    "rttStatsFontSize": "8",
     "selectedTheme": "Monochrome"
   }
 }
