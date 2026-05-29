@@ -6,6 +6,7 @@
     "import": false,
     "export": false,
     "rtt": true,
+    "rttHeader": false,    
     "dataTable": false,
     "themeToggle": false,
     "tbFileOps": false,
