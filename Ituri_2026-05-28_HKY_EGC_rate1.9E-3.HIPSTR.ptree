@@ -80,6 +80,9 @@ BEGIN TREES;
   "nodeColourBy": "user_colour",
   "labelColourBy": "user_colour",
   "legendAnnotation": "location",
+  "annotationPalettes": {
+    "location": "Solarized",
+  },
   "axisShow": "time",
   "axisDateAnnotation": "date",
   "axisDateFormat": "yyyy-MMM-dd",
