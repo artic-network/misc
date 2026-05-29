@@ -43,7 +43,7 @@
     "rttOpen": true,
     "rttPinned": true,
     "rttPanelWidth": "40%",
-    "rttStatsFontSize": "8",
+    "rttStatsFontSize": "6",
     "rttXOrigin": "interval",
     "rttAspectRatio": "1:1",
     "rttResidBandShow": "residual",
