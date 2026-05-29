@@ -81,7 +81,7 @@ BEGIN TREES;
   "nodeColourBy": "user_colour",
   "labelColourBy": "user_colour",
   "annotationPalettes": {
-    "location": "Solarized",
+    "location": "Solarized"
   },
   "legendAnnotation": "location",
   "legendAnnotation2": "",
