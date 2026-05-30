@@ -141,6 +141,6 @@ BEGIN TREES;
   "tipLabelsFilter": null,
   "nodeShapesFilter": null,
   "tipShapesFilter": null,
-  "axisRangeTimeLeft": "2026-02"
+  "axisRangeTimeLeft": "2026-02-01"
 }]
 END;
