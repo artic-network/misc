@@ -1,8 +1,8 @@
 {
   "ui": {
     "palette": false,
-    "toolbar": false,
-    "statusBar": false,
+    "toolbar": true,
+    "statusBar": true,
     "import": false,
     "export": false,
     "rtt": false,
