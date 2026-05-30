@@ -15,6 +15,7 @@
     "tbFilter": false,
     "tbPanels": false,
     "openTree": false,
+    "backgroundColor": "#FFFFFA",
     "borderWidth": "1.5",
     "borderColor": "#F1F0E7",
     "borderRadius": "4",
