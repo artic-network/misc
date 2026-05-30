@@ -32,6 +32,7 @@
     "spacingRight": "0",
     "spacingTop": "0",
     "spacingBottom": "0",
+    "axisSpacingTop": "0",
     "filters":[
       {
         "id":"filter-support",
