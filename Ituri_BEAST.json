@@ -27,6 +27,10 @@
   "settings": {
     "canvasBgColor": "#FFFFFA",
     "introAnimation": "none",
+    "spacingLeft": "0",
+    "spacingRight": "0",
+    "spacingTop": "0",
+    "spacingBottom": "0",
     "filters":[
       {
         "id":"filter-support",
