@@ -27,7 +27,6 @@
   "settings": {
     "canvasBgColor": "#FFFFFA",
     "introAnimation": "none",
-    "axisRangeTimeLeft": "2026-02-01",    
     "filters":[
       {
         "id":"filter-support",
